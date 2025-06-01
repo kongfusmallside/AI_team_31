@@ -6,8 +6,8 @@ Set up the project locally
 
 ```bash
 
-cd //
-or cd //
+cd /Active-object/
+or cd /Hierarchical-Object-Detection/
 ```
 
 2.**Create Virtual Environment and Install Required Packages**
